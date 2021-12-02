@@ -20,7 +20,7 @@ function App() {
                 
                 
                 <Switch>
-                    <Route exact path="/react-Portfolio" component={Homepage} />
+                    <Route exact path="/React-Portfolio" component={Homepage} />
                     <Route exact path="/About" component={About} />
                     <Route exact path="/Resume" component={Resume} />
                     
